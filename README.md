@@ -62,7 +62,7 @@ To change assignments, edit: `config/bettercombat/fallback_compatibility.json` f
 
 ### Item metadata compatibility
 
-#### 1.21.0 and later
+#### 1.21.7
 
 Weapon attributes can be referenced in item data component. For example:
 
