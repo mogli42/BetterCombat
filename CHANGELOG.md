@@ -1,5 +1,6 @@
 # 2.2.5
 
+- Compatible with Minecraft 1.21.7
 - Fix damage done with daggers #495 
 
 # 2.2.4
